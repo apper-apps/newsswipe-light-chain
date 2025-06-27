@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "headline": "Global Climate Summit Reaches Historic Agreement on Carbon Neutrality",
+    "summary": "World leaders from 195 countries have signed a groundbreaking accord to achieve carbon neutrality by 2040, with immediate implementation of renewable energy initiatives and carbon offset programs. The agreement includes binding commitments for developed nations to provide $500 billion in climate financing to developing countries over the next decade.",
+    "imageUrl": "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e5?w=800&h=600&fit=crop",
+    "source": "Global News Network",
+    "category": "World",
+    "publishedAt": "2024-01-15T14:30:00Z",
+    "url": "https://example.com/climate-summit-agreement",
+    "readingTime": 4
+  },
+  {
+    "Id": 2,
+    "headline": "Revolutionary AI Breakthrough: Quantum Computing Achieves 99.9% Error Correction",
+    "summary": "Scientists at the Institute for Advanced Computing have successfully demonstrated quantum error correction at unprecedented accuracy levels, bringing practical quantum computing closer to reality. The breakthrough could revolutionize drug discovery, financial modeling, and climate prediction within the next five years.",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+    "source": "Tech Today",
+    "category": "Technology",
+    "publishedAt": "2024-01-15T11:45:00Z",
+    "url": "https://example.com/quantum-computing-breakthrough",
+    "readingTime": 6
+  },
+  {
+    "Id": 3,
+    "headline": "Major Tech Merger: GlobalSoft Acquires CloudTech for $85 Billion",
+    "summary": "In the largest technology acquisition this year, GlobalSoft has announced its purchase of cloud computing giant CloudTech, creating a unified platform that will serve over 2 billion users worldwide. Industry analysts expect the merger to reshape the enterprise software landscape and accelerate digital transformation initiatives.",
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&h=600&fit=crop",
+    "source": "Business Wire",
+    "category": "Business",
+    "publishedTime": "2024-01-15T09:20:00Z",
+    "url": "https://example.com/tech-merger-announcement",
+    "readingTime": 5
+  },
+  {
+    "Id": 4,
+    "headline": "World Cup 2026: Joint Bid Selection Committee Announces Final Host Cities",
+    "summary": "The FIFA World Cup 2026 organizing committee has revealed the 16 host cities across North America, with innovative stadium designs featuring sustainable architecture and cutting-edge fan experiences. The tournament will be the first to feature 48 teams, with matches spanning the United States, Canada, and Mexico.",
+    "imageUrl": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&h=600&fit=crop",
+    "source": "Sports Central",
+    "category": "Sports",
+    "publishedAt": "2024-01-15T16:10:00Z",
+    "url": "https://example.com/world-cup-2026-cities",
+    "readingTime": 3
+  },
+  {
+    "Id": 5,
+    "headline": "Medical Breakthrough: Gene Therapy Shows 95% Success Rate in Cancer Treatment",
+    "summary": "Clinical trials of a new gene therapy treatment have shown remarkable success in treating previously incurable forms of cancer, with 95% of patients showing complete remission after six months. The treatment uses modified immune cells to target and destroy cancer cells while leaving healthy tissue unharmed.",
+    "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop",
+    "source": "Medical Journal",
+    "category": "Health",
+    "publishedAt": "2024-01-15T13:25:00Z",
+    "url": "https://example.com/gene-therapy-breakthrough",
+    "readingTime": 7
+  },
+  {
+    "Id": 6,
+    "headline": "Space Exploration Milestone: Mars Colony Simulation Completes Two-Year Mission",
+    "summary": "NASA's Mars analog mission has successfully concluded its two-year isolation study, providing crucial insights into long-duration space travel and colonial life support systems. The six-person crew demonstrated sustainable food production, psychological resilience protocols, and equipment maintenance procedures that will inform future Mars missions.",
+    "imageUrl": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=800&h=600&fit=crop",
+    "source": "Space News",
+    "category": "Science",
+    "publishedAt": "2024-01-15T12:15:00Z",
+    "url": "https://example.com/mars-simulation-complete",
+    "readingTime": 5
+  },
+  {
+    "Id": 7,
+    "headline": "Economic Outlook: Federal Reserve Signals Interest Rate Stability Through 2024",
+    "summary": "Federal Reserve Chairman announced that interest rates will remain stable at current levels throughout 2024, citing controlled inflation and steady employment growth. The decision provides certainty for business investment planning and mortgage markets, while maintaining monetary policy flexibility for future economic conditions.",
+    "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=600&fit=crop",
+    "source": "Financial Times",
+    "category": "Business",
+    "publishedAt": "2024-01-15T10:30:00Z",
+    "url": "https://example.com/fed-interest-rates-2024",
+    "readingTime": 4
+  },
+  {
+    "Id": 8,
+    "headline": "Renewable Energy Record: Solar and Wind Power Exceed 50% of Global Energy Production",
+    "summary": "For the first time in history, renewable energy sources have generated more than half of the world's electricity, marking a significant milestone in the transition away from fossil fuels. The achievement is driven by massive investments in solar panel efficiency, offshore wind farms, and energy storage technologies.",
+    "imageUrl": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&h=600&fit=crop",
+    "source": "Energy Weekly",
+    "category": "World",
+    "publishedAt": "2024-01-15T15:40:00Z",
+    "url": "https://example.com/renewable-energy-milestone",
+    "readingTime": 6
+  }
+]
