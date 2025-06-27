@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import { PanInfo, motion, useMotionValue, useTransform } from "framer-motion";
+import { motion, useMotionValue, useTransform } from "framer-motion";
 import { toast } from "react-toastify";
 import ArticleCard from "@/components/molecules/ArticleCard";
 import SwipeIndicator from "@/components/molecules/SwipeIndicator";
